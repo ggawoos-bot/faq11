@@ -1,0 +1,5 @@
+{
+  "name": "Interactive FAQ Service",
+  "description": "A web application for browsing and managing Frequently Asked Questions (FAQs), featuring a user-friendly interface for searching and viewing questions, and a comprehensive admin panel for content management and analytics.",
+  "requestFramePermissions": []
+}
